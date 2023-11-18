@@ -1,4 +1,4 @@
-# elec-vite
+# Calculator
 
 An Electron application with React
 
